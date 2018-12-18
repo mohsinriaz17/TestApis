@@ -1,29 +1,29 @@
 {
-  "deliveryOptions": [
-    {
-      "pk_id": 1,
-      "title": "With One Hour",
-      "cost": 200
-    },
-    {
-      "pk_id": 2,
-      "title": "9:00 AM - 10:00 AM",
-      "cost": 100
-    },
-    {
-      "pk_id": 1,
-      "title": "11:00 AM - 12:00 PM",
-      "cost": 0
-    },
-    {
-      "pk_id": 1,
-      "title": "2:00 PM - 4:00 PM",
-      "cost": 0
-    },
-    {
-      "pk_id": 1,
-      "title": "6:00 PM - 8:00 PM",
-      "cost": 150
-    }
-  ],
+    "deliveryOptions": [
+        {
+            "pk_id": 1,
+            "title": "With One Hour",
+            "cost": 200
+        },
+        {
+            "pk_id": 2,
+            "title": "9:00 AM - 10:00 AM",
+            "cost": 100
+        },
+        {
+            "pk_id": 1,
+            "title": "11:00 AM - 12:00 PM",
+            "cost": 0
+        },
+        {
+            "pk_id": 1,
+            "title": "2:00 PM - 4:00 PM",
+            "cost": 0
+        },
+        {
+            "pk_id": 1,
+            "title": "6:00 PM - 8:00 PM",
+            "cost": 150
+        }
+    ]
 }
